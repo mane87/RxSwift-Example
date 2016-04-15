@@ -1,2 +1,2 @@
 # RxSwift-Example
-My Playgroudn for RxSwift
+My Playground for RxSwift
